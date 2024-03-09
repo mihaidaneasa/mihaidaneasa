@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Manual and Automated testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reache me at e-mail mihaidaneasa@gmail.com or phone +40721 374 071
-- 😄 Pronouns: Mihai
+- 😄 Pronouns: ....
 - ⚡ Fun fact: I'm 42 years old but I can still enjoy playing with my childrens. I gues I'm in their minds.
 
 <!---
