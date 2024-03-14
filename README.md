@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mihai, Dăneasă
-- 👀 I’m interested in working in a IT company
+- 👀 I’m interested in working in the IT domain
 - 🌱 I’m currently learning Manual and Automated testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reache me at e-mail mihaidaneasa@gmail.com or phone +40721 374 071
