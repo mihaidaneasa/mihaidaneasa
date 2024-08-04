@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mihai, Dăneasă
 - 👀 I’m interested in working in the IT domain
 - 🌱 I’m currently learning Manual and Automated testing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with a seroius company
 - 📫 You can reache me at e-mail mihaidaneasa@gmail.com or phone +40721 374 071
 - 😄 Pronouns: ....
 - ⚡ Fun fact: I'm 42 years old but I can still enjoy playing with my childrens. I gues I'm in their minds.
