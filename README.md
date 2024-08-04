@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mihai, Dăneasă.
+- 👋 Hi, I’m Mihai, Dăneasă and I live in Cugir, counnty of Alba, Romania.
 - 👀 I’m interested in working in the IT domain.
 - 🌱 I’m currently learning Manual and Automated testing.
 - 💞️ I’m looking to collaborate with a dedicate team.
