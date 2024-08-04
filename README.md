@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mihai, Dăneasă and I live in Cugir, counnty of Alba, Romania.
 - 👀 I’m interested in working in the IT domain.
-- 🌱 I’m currently learning Manual and Automated testing.
+- 🌱 I’m currently learning Manual testing and Automated testing.
 - 💞️ I’m looking to collaborate with a dedicate team.
 - 📫 You can reache me at e-mail mihaidaneasa@gmail.com or phone +40721 374 071
 - 😄 Pronouns: Mihai or Michel.
