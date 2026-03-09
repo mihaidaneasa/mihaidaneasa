@@ -1,12 +1,29 @@
-- 👋 Hi, I’m Mihai, Dăneasă and I live in Cugir, counnty of Alba, Romania.
-- 👀 I’m interested in working in the IT domain.
-- 🌱 I completed the online manual testing (JIRA, Postman, MySQL) and automated testing (Unittest, BDD, API testing) courses, supported by IT Factory.
-- 💞️ I’m looking to collaborate with a dedicate team.
-- 📫 You can reache me at e-mail mihai.daneasa@gmail.com or phone +40721 374 071
-- 😄 Pronouns: Mihai or Michel.
-- ⚡ Fun fact: I'm 42 years old but I can still enjoy playing with my childrens. I gues I'm in their minds.
+# 👋 Salut! Sunt Mihai Dăneasa
 
-<!---
-mihaidaneasa/mihaidaneasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Python Developer | Automation | Data Processing  
+📍 Romania  
+
+## 🚀 Despre mine
+Sunt pasionat de automatizare, procesarea datelor și dezvoltarea de soluții software practice.  
+Îmi place să construiesc aplicații care simplifică procesele și economisesc timp.
+
+## 🔧 Tech Stack
+- Python
+- Jupyter Notebook
+- Data Processing
+- Automation Scripts
+- Git / GitHub
+
+## 📂 Proiecte principale
+🔹 **Data Entry Automation**  
+Script Python pentru automatizarea introducerii datelor.
+
+🔹 **Data Analysis Notebook**  
+Analiza dataseturilor folosind Python și Jupyter.
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaidaneasa&show_icons=true)
+
+## 📫 Contact
+- LinkedIn: (link)
+- Email: (email)
