@@ -25,5 +25,5 @@ Analiza dataseturilor folosind Python și Jupyter.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaidaneasa&show_icons=true)
 
 ## 📫 Contact
-- LinkedIn: (link)
-- Email: (email)
+- LinkedIn: [linkedin.com/in/mihai-daneasa](https://www.linkedin.com/in/mihai-daneasa)
+- Email: mihaidaneasa@yahoo.com
